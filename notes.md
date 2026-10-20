@@ -4,5 +4,5 @@ Première ligne de texte libre.
 
 Deuxième ligne de texte libre.
 
-Troisème ligne de texte libre. 
+Troisième ligne de texte libre. 
 
